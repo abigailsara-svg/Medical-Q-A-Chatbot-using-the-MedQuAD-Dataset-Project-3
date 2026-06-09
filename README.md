@@ -25,6 +25,9 @@ https://github.com/abachaa/MedQuAD
 
 ## Project Structure
 
+## Project Structure
+
+```text
 Project-3/
 │
 ├── MedQuAD/
@@ -36,6 +39,7 @@ Project-3/
 ├── prepare_data.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation
 
