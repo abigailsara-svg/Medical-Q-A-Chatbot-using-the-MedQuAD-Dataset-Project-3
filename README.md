@@ -25,8 +25,6 @@ https://github.com/abachaa/MedQuAD
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 Project-3/
 │
